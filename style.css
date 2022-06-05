@@ -1,6 +1,11 @@
 * {
     margin: 0;
   }
+body{
+
+    overflow-x: hidden;
+
+}
   
   body {
     font-family: "Roboto", sans-serif;
